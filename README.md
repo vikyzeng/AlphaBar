@@ -1,15 +1,15 @@
 # AlphaBar
 Interactive smart cocktail shaker
 
-·Order Modes:
+# Order Modes:
 Menu Order
 Custom Order
 Voice Order
 
-·Administor Mode:
+# Administor Mode:
 Inventories
 Sales
 
-·Sensor
+# Sensor
 Heart rate sensing
 Pressure sensing

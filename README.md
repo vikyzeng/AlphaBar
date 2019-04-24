@@ -7,9 +7,9 @@ Interactive smart cocktail shaker
 * Voice Order
 
 # Administor Mode:
-Inventories
-Sales
+* Inventories
+* Sales
 
 # Sensor
-Heart rate sensing
-Pressure sensing
+* Heart rate sensing
+* Pressure sensing
